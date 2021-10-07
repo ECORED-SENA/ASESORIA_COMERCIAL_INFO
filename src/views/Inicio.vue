@@ -22,8 +22,8 @@ section
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 2208
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
-                p.banner-principal__datos__item__texto 15
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
+                p.banner-principal__datos__item__texto 15 meses
               li.mb-0.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual            
@@ -31,7 +31,7 @@ section
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
-            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/kBcHYCTVJTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
@@ -107,7 +107,7 @@ section
         p.mb-0 #[strong 220601501] - Aplicar prácticas de protección ambiental, seguridad y salud en el trabajo, de acuerdo con las políticas organizacionales y la normatividad vigente.
       li
         i.fas.fa-angle-right
-        p.mb-0 #[strong 220601501] - Ejercer derechos fundamentales del trabajo en el marco de la constitución política y los convenios internacionales.
+        p.mb-0 #[strong 210601501] - Ejercer derechos fundamentales del trabajo en el marco de la constitución política y los convenios internacionales.
       li
         i.fas.fa-angle-right
         p.mb-0 #[strong 240201526] - Enrique Low Murtra-Interactuar en el contexto productivo y social de acuerdo con principios éticos para la construcción de una cultura de paz.
