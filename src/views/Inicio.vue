@@ -22,8 +22,8 @@ section
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 2208
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
-                p.banner-principal__datos__item__texto 15
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
+                p.banner-principal__datos__item__texto 15 meses
               li.mb-0.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual            
@@ -31,7 +31,7 @@ section
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
-            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/kBcHYCTVJTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
@@ -44,8 +44,6 @@ section
     p Este programa está asociado a la ocupación de vendedores de ventas no técnicas, sobre la cual existen diversas denominaciones en las que es posible desempeñarse, tales como vendedor tienda a tienda, vendedor externo, vendedor viajero, vendedor de servicios financieros, representante de ventas, promotor de venta, entre otros.
 
     p Durante el proceso formativo, tendrá la oportunidad de desarrollar habilidades en prospectar clientes, vender bienes y servicios, y monitorear la satisfacción y demás requerimientos del cliente. Para ello, tendrá a disposición un equipo de instructores con perfil idóneo para entregarle todas las orientaciones posibles, que le permitan el logro de los resultados de aprendizaje específicos, claves y transversales; además, podrá acompañar su proceso con el trabajo colaborativo, el uso de herramientas tecnológicas y el entorno que le rodea.
-
-    p Una vez egresado, contará con las herramientas mínimas para ingresar al aparato productivo, poner a prueba sus conocimientos en la vida laboral, y así iniciar una carrera profesional en el mundo del comercio y de las ventas. Adicionalmente, contará con una plataforma académica que le permitirá llevar a cabo un proceso de articulación con otros niveles de formación, como el tecnológico, el de especialización tecnológica y el profesional.
 
     p Una vez egresado, contará con las herramientas mínimas para ingresar al aparato productivo, poner a prueba sus conocimientos en la vida laboral, y así iniciar una carrera profesional en el mundo del comercio y de las ventas. Adicionalmente, contará con una plataforma académica que le permitirá llevar a cabo un proceso de articulación con otros niveles de formación, como el tecnológico, el de especialización tecnológica y el profesional.
 
@@ -88,7 +86,7 @@ section
         p.mb-0 #[strong 220501046]  - Utilizar herramientas informáticas de acuerdo con las necesidades de manejo de información.
       li
         i.fas.fa-angle-right
-        p.mb-0 #[strong 240202521]- Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales, según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas.
+        p.mb-0 #[strong 240202501]- Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales, según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas.
       li
         i.fas.fa-angle-right
         p.mb-0 #[strong 240201524] - Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo.
@@ -107,7 +105,7 @@ section
         p.mb-0 #[strong 220601501] - Aplicar prácticas de protección ambiental, seguridad y salud en el trabajo, de acuerdo con las políticas organizacionales y la normatividad vigente.
       li
         i.fas.fa-angle-right
-        p.mb-0 #[strong 220601501] - Ejercer derechos fundamentales del trabajo en el marco de la constitución política y los convenios internacionales.
+        p.mb-0 #[strong 210201501] - Ejercer derechos fundamentales del trabajo en el marco de la constitución política y los convenios internacionales.
       li
         i.fas.fa-angle-right
         p.mb-0 #[strong 240201526] - Enrique Low Murtra-Interactuar en el contexto productivo y social de acuerdo con principios éticos para la construcción de una cultura de paz.
@@ -116,7 +114,7 @@ section
         p.mb-0 #[strong 230101507] - Generar hábitos saludables de vida mediante la aplicación de programas de actividad física en los contextos productivos y sociales.
       li
         i.fas.fa-angle-right
-        p.mb-0 #[strong 240201529] - Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.
+        p.mb-0 #[strong 240201533] - Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
